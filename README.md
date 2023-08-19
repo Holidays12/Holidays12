@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Holidays12
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in tourism industry
+- 🌱 I’m currently learning Italiaan
+- 💞️ I’m looking to collaborate on tourism
 - 📫 How to reach me ... https://holidayz-in-morocco.com/
 
 <!---
